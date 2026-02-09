@@ -5,24 +5,9 @@ const siteLanguageList = [
     released: true,
   },
   {
-    code: 'ar',
-    name: 'العربية',
-    released: true,
-  },
-  {
-    code: 'ca',
-    name: 'Català',
-    released: false,
-  },
-  {
     code: 'es-419',
     name: 'Español (Latinoamérica)',
-    released: true,
-  },
-  {
-    code: 'fa-ir',
-    name: 'فارسی',
-    released: true,
+    released: false,
   },
   {
     code: 'fr',
@@ -30,39 +15,14 @@ const siteLanguageList = [
     released: true,
   },
   {
-    code: 'he',
-    name: 'עברית',
-    released: false,
-  },
-  {
-    code: 'id',
-    name: 'Bahasa Indonesia',
-    released: false,
-  },
-  {
-    code: 'ko-kr',
-    name: '한국어 (대한민국)',
-    released: false,
-  },
-  {
-    code: 'pl',
-    name: 'Polski',
-    released: false,
-  },
-  {
-    code: 'pt-br',
-    name: 'Português (Brasil)',
-    released: false,
-  },
-  {
     code: 'ru',
     name: 'Русский',
-    released: false,
+    released: true,
   },
   {
-    code: 'th',
-    name: 'ไทย',
-    released: false,
+    code: 'ka',
+    name: 'ქართული',
+    released: true,
   },
   {
     code: 'uk',
@@ -72,11 +32,6 @@ const siteLanguageList = [
   {
     code: 'zh-cn',
     name: '中文 (简体)',
-    released: true,
-  },
-  {
-    code: 'pt-pt',
-    name: 'Português',
     released: true,
   },
   {
@@ -90,38 +45,8 @@ const siteLanguageList = [
     released: true,
   },
   {
-    code: 'hi',
-    name: 'Hindi',
-    released: true,
-  },
-  {
-    code: 'fr-ca',
-    name: 'French (CA)',
-    released: true,
-  },
-  {
-    code: 'te',
-    name: 'తెలుగు',
-    released: true,
-  },
-  {
-    code: 'da',
-    name: 'dansk',
-    released: true,
-  },
-  {
-    code: 'el',
-    name: 'Ελληνικά',
-    released: true,
-  },
-  {
     code: 'es-es',
     name: 'Español (España)',
-    released: true,
-  },
-  {
-    code: 'sw',
-    name: 'Kiswahili',
     released: true,
   },
   {
